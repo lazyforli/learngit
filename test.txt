@@ -1,0 +1,19 @@
+$ git log
+commit 4571fbd3577c0e59d72c20686954422d27bd352b
+Author: lixuefei <xuefeili@hillstonenet.com>
+Date:   Fri Oct 28 08:36:58 2016 +0800
+
+    modify gittxt & add License
+
+    commit 677d214c82a8134a54cc62cfc0d45262e4ccee39
+    Author: lixuefei <xuefeili@hillstonenet.com>
+    Date:   Thu Oct 27 17:53:24 2016 +0800
+
+        add the second line
+
+	commit 6e00d95fdf58f2f3a69e3bd68aedec09e0e2098c
+	Author: lixuefei <xuefeili@hillstonenet.com>
+	Date:   Thu Oct 27 17:49:03 2016 +0800
+
+	    add gittxt
+
